@@ -82,7 +82,8 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Modules\" />
+    <Folder Include="LOAN_Inspector\" />
+    <Folder Include="User\" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
